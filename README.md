@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketapangcyberteam" alt="ketapangcyberteam" /></a> </p>
 
-- 🔭 I’m currently working on [Spam Pairing WhatsApp](https://github.com/KetapangCyberTeam/Spam-Pairing.git)
+- 🔭 I’m currently working on  [CamPhish](https://github.com/KetapangCyberTeam/CamPhish.git)
 
 - 🌱 I’m currently learning **Mobile Developer**
 
@@ -26,6 +26,7 @@
 ```bash
 git clone https://github.com/KetapangCyberTeam/CamPhish
 cd CamPhish
+bash camphish.sh
 ```
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"></code>
